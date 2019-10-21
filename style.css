@@ -34,6 +34,13 @@ h5{
 	font-size: 16px;
 }
 
+h6{
+	font-family: 'Montserrat', sans-serif;
+	color:#40e0d0;
+	text-align: left;
+	font-size: 16px;
+}
+
 .divwon, .divtwo, .divthree{
 	position:relative;
 	text-align: center;
@@ -46,12 +53,19 @@ h5{
 	top:10px;
 }
 
+.divseven {
+	position:relative;
+	text-align: left;
+	top:10px;
+}
+
 .blog1, .blog2, .blog3 {
 	position:relative;
-	text-align: center;
+	text-align: left;
 	top:10px;
 	float:left;
-	width:250px;
+	width:350px;
+
 
 }
 
